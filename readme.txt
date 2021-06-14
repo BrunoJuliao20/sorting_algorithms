@@ -12,7 +12,7 @@ Os algoritmos implementados foram os seguintes:
 - Shell Sort , com incremento n=n/2 e sequência de Ciura
 - Insertion Sort
 - Quicksort
-- Quicksort + Insertion Sort(n=10,30,60,100)
+- Quicksort + Insertion Sort(10,30,60,100)
 - Radix Sort LSD + MSD
 - Radix Sort MSD + Insertion Sort(100)
 
