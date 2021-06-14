@@ -14,7 +14,7 @@ Os algoritmos implementados foram os seguintes:
 - Quicksort
 - Quicksort + Insertion Sort(n=10,30,60,100)
 - Radix Sort LSD + MSD
-- Radix Sort MSD + Insertion Sort
+- Radix Sort MSD + Insertion Sort(100)
 
 Conclusões
 
